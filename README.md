@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prosanjeev
+- 👋 Hi, I’m Sanjeev Kumar
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on web app using react js
