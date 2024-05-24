@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjeev Kumar
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning Next Js
 - 💞️ I’m looking to collaborate on web app using react js
 - 📫 How to reach me sanjeevcse2k23@gmail.com
 
